@@ -1,4 +1,4 @@
-## Ressources en informatique
+## Ressources (obligatoires) en informatique
 
 - [MPYPLE](https://elearning.unifr.ch/myple/fr) - présentation thématique d'outils de base.
 - [Le blog du centre NTE.](https://nte.unifr.ch/blog/)
